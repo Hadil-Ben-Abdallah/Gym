@@ -587,8 +587,8 @@ section {
 
 .buttonpma {
   --border-right: 6px;
-  --text-stroke-color: rgba(255, 249, 85, 0.78);
-  --animation-color: #faf205;
+  --text-stroke-color: #f2cb1f8e;
+  --animation-color: #f2cb1f;
   --fs-size: 2em;
   letter-spacing: 3px;
   text-decoration: none;
